@@ -1,4 +1,4 @@
-from tkinter import *
+from  tkinter import *
 
 def click(event):
    global scvalue
